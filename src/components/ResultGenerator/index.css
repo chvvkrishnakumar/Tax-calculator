@@ -1,0 +1,9 @@
+span {
+  color: blue;
+}
+.result {
+  padding: 20px;
+  text-align: left;
+  background-color: bisque;
+  font-weight: bold;
+}
